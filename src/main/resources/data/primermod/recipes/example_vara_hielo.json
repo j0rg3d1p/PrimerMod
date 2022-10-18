@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XOX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:powder_snow_bucket"
+    },
+    "O": {
+      "item": "primermod:vara"
+    }
+  },
+  "result": {
+    "item": "primermod:vara_hielo"
+  }
+}

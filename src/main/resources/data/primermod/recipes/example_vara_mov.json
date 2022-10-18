@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YOZ"
+  ],
+  "key": {
+    "O": {
+      "item": "primermod:vara"
+    },
+    "Y": {
+      "item": "minecraft:recovery_compass"
+    },
+    "Z": {
+      "item": "primermod:monster_egg"
+    }
+  },
+  "result": {
+    "item": "primermod:vara_mov"
+  }
+}

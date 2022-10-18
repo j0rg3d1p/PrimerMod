@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#O#",
+    "X#X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:blaze_rod"
+    },
+    "O": {
+      "item": "primermod:vara"
+    },
+    "#": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "primermod:vara_lava"
+  }
+}

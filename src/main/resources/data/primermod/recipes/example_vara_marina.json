@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "#O#",
+    "###"
+  ],
+  "key": {
+    "O": {
+      "item": "primermod:vara"
+    },
+    "X": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "#": {
+      "item": "minecraft:glow_ink_sac"
+    }
+  },
+  "result": {
+    "item": "primermod:vara_marina"
+  }
+}

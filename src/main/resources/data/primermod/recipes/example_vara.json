@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X Z",
+    " # ",
+    "A C"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "Z": {
+      "item": "minecraft:emerald"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "primermod:mithril_ingot"
+    },
+    "C": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+
+  "result": {
+    "item": "primermod:vara"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "YOZ"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "O": {
+      "item": "primermod:vara"
+    },
+    "Y": {
+      "item": "minecraft:shield"
+    },
+    "Z": {
+      "item": "minecraft:turtle_helmet"
+    }
+  },
+  "result": {
+    "item": "primermod:vara_fuerza"
+  }
+}

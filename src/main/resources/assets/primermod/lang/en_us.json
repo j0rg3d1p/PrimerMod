@@ -1,0 +1,19 @@
+{
+  "item.primermod.monster_egg": "Monster Egg",
+  "item.primermod.daga": "Daga de mithril",
+  "item.primermod.lembas": "Pan de lembas",
+  "item.primermod.mithril": "Cota de malla de Mithril",
+  "item.primermod.mercurial": "Botas de Mercurio",
+  "item.primermod.arco": "Arco",
+  "item.primermod.aiglos": "Aeglos",
+  "block.primermod.mithril_block": "Bloque de Mithril",
+  "block.primermod.speedy_block": "Bloque de hiper velocidad",
+  "item.primermod.mithril_ingot": "Mineral Mithril",
+  "item.primermod.vara_hielo": "Vara de hielo",
+  "item.primermod.vara_lava": "Vara de fuego",
+  "item.primermod.vara_fuerza": "Vara de fuerza",
+  "item.primermod.vara_mov": "Vara de movimiento",
+  "item.primermod.vara_marina": "Vara del mar",
+  "item.primermod.vara": "Vara",
+  "entity.primermod.monster": "Primer Mob"
+}

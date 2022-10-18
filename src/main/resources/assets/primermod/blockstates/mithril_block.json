@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "primermod:block/mithril_block"
+    }
+  }
+}

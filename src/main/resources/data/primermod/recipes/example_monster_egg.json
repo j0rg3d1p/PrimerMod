@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#O#",
+    "X#X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "#": {
+      "item": "primermod:mithril_ingot"
+    },
+    "O": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "primermod:monster_egg"
+  }
+}

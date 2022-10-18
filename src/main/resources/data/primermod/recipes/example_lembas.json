@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "XOX",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:potato"
+    },
+    "X": {
+      "item": "minecraft:bread"
+    },
+    "O": {
+      "item": "minecraft:carrot"
+    }
+  },
+  "result": {
+    "item": "primermod:lembas"
+  }
+}
